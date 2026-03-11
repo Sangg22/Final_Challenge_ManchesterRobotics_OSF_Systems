@@ -1,0 +1,5 @@
+set_point_node:
+  ros__parameters:
+    signal_type: "sine"
+    amplitude: 6.0
+    omega: 0.8
